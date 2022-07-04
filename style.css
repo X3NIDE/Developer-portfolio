@@ -56,3 +56,27 @@ h1
     background-position: right;
 
 }
+.box{
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    box-shadow: 10px 10px 30px gray;
+    border-left: 8px solid rgb(0, 25, 247);
+}
+.h1color{
+    color: red;
+}
+.bottom-banner{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+#rd-h1{
+    border-left: 8px solid orangered;
+}
+footer p{
+    text-align: center;
+}
