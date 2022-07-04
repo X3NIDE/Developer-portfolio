@@ -9,7 +9,7 @@ body {
     color: red;
 }
 
-section {
+.flexible-container {
     display: flex;
     padding-left: 20px;
     padding-bottom: 30px;
